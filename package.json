@@ -1,0 +1,14 @@
+{
+  "name": "pat",
+  "version": "1.0.0",
+  "description": "projeto da pos",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "arthur L",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
